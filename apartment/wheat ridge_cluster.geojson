@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "building": "residential", "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.127499774865356, 39.742194687329295 ] } }
+]
+}
