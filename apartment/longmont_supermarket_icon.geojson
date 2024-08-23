@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.129521, 40.1879657 ] } },
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1292797, 40.1451237 ] } },
+{ "type": "Feature", "properties": { "name": "SV Groceries", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.127505, 40.1432242 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.103984, 40.1988484 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1094201, 40.1535416 ] } },
+{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.103838, 40.1902756 ] } },
+{ "type": "Feature", "properties": { "name": "Simply Bulk Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1023266, 40.1661808 ] } },
+{ "type": "Feature", "properties": { "name": "Longs Peak Grocery Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1169756, 40.178598 ] } },
+{ "type": "Feature", "properties": { "name": "Save-A-Lot", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.100985, 40.1900699 ] } },
+{ "type": "Feature", "properties": { "name": "Carniceria Guanajuato", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1011997, 40.1883761 ] } },
+{ "type": "Feature", "properties": { "name": "Tortilleria Las Americas", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.08786, 40.1733005 ] } },
+{ "type": "Feature", "properties": { "name": "Carniceria El Cerrito", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.102091483981113, 40.175356596439741 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.134109012911125, 40.150577983585755 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.075922507561188, 40.186552543853232 ] } },
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.133404842782014, 40.145934489759156 ] } }
+]
+}

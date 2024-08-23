@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1398719, 39.7641939 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1252846, 39.7420445 ] } },
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1613411, 39.7364521 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.098713, 39.7391257 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0803896, 39.7222013 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.079408827615765, 39.74270359419053 ] } },
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.110293821824158, 39.76770287259307 ] } },
+{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.098147431698692, 39.739798520092386 ] } }
+]
+}

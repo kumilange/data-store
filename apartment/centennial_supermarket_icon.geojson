@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.884064, 39.6266082 ] } },
+{ "type": "Feature", "properties": { "name": "Europa", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.8277778, 39.6374179 ] } },
+{ "type": "Feature", "properties": { "name": "ZARIS International Market / Halal Meat", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.8471936, 39.5955619 ] } },
+{ "type": "Feature", "properties": { "name": "Walgreen's", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.884876732232229, 39.581213896616624 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -104.861808738219509, 39.590550936921552 ] } },
+{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.852934675021274, 39.59558355411037 ] } }
+]
+}

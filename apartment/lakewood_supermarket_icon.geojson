@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.145678, 39.6984097 ] } },
+{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.138203, 39.702343 ] } },
+{ "type": "Feature", "properties": { "name": "Carmine Lonardo's", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0804403, 39.6897503 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0831167, 39.6815267 ] } },
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1613411, 39.7364521 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1225536, 39.6812895 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.1194557, 39.6905264 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0803896, 39.7222013 ] } },
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.080614476102085, 39.708728445276321 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.137281033566978, 39.708749175504984 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.083416304471783, 39.636287387597186 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.085095748115307, 39.709448935952629 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.192934334990284, 39.739425042381932 ] } }
+]
+}

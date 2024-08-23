@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0507693, 39.9124305 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.088048221226586, 39.933087854561123 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.055334997058182, 39.917049284934144 ] } },
+{ "type": "Feature", "properties": { "name": "Great Wall Supermarket", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.070127042224087, 39.912850584988952 ] } }
+]
+}

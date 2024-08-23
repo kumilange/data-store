@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.124166, 39.9881152 ] } },
+{ "type": "Feature", "properties": { "name": "Target", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.17436334914369, 39.956470986960902 ] } },
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.167735324367641, 39.956606625384843 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.160088859117749, 39.963702861451623 ] } }
+]
+}
