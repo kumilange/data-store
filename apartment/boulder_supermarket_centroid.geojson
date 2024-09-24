@@ -1,18 +1,18 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.255938, 40.0240242 ] } },
-{ "type": "Feature", "properties": { "name": "University Hill Market & Deli", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2760668, 40.0079908 ] } },
-{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2609692, 40.0158916 ] } },
-{ "type": "Feature", "properties": { "name": "India Bazaar", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2581336, 40.0138039 ] } },
-{ "type": "Feature", "properties": { "name": "India's Grocery", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2591876, 40.0284368 ] } },
-{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2616648, 40.0158111 ] } },
-{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.259592250368129, 40.01329966697638 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.251831308798941, 40.015801290008675 ] } },
-{ "type": "Feature", "properties": { "name": "Trader Joe's", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.257804311407668, 40.020267903417256 ] } },
-{ "type": "Feature", "properties": { "name": "Lucky's Market", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.281037924869793, 40.047353979643162 ] } },
-{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.280817167456945, 40.026020146590902 ] } },
-{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.260133180516689, 40.022311049167769 ] } },
-{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.260206147386285, 40.034961063607824 ] } }
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "id": 564835927, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.255938, 40.0240242 ] } },
+{ "type": "Feature", "properties": { "name": "University Hill Market & Deli", "shop": "supermarket", "id": 1182911464, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2760668, 40.0079908 ] } },
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 1270050173, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2609692, 40.0158916 ] } },
+{ "type": "Feature", "properties": { "name": "India Bazaar", "shop": "supermarket", "id": 4461138345, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2581336, 40.0138039 ] } },
+{ "type": "Feature", "properties": { "name": "India's Grocery", "shop": "supermarket", "id": 4550245464, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2591876, 40.0284368 ] } },
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 11352650332, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.2616648, 40.0158111 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "id": 106152735, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.259592250368129, 40.01329966697638 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 134952073, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.251831308798941, 40.015801290008675 ] } },
+{ "type": "Feature", "properties": { "name": "Trader Joe's", "shop": "supermarket", "id": 184855147, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.257804311407668, 40.020267903417256 ] } },
+{ "type": "Feature", "properties": { "name": "Lucky's Market", "shop": "supermarket", "id": 396615691, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.281037924869793, 40.047353979643162 ] } },
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "id": 470654565, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.280817167456945, 40.026020146590902 ] } },
+{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "id": 648626080, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.260133180516689, 40.022311049167769 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "id": 683023842, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.260206147386285, 40.034961063607824 ] } }
 ]
 }

@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.988367, 39.624371 ] } },
-{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.984644, 39.6518885 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -104.989458862421657, 39.655740507355539 ] } },
-{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -104.994769071379039, 39.656163666394725 ] } },
-{ "type": "Feature", "properties": { "name": "Target", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.005519021582472, 39.650078826706419 ] } }
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 3066921803, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.988367, 39.624371 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "id": 4682685590, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.984644, 39.6518885 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 46209186, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -104.989458862421657, 39.655740507355539 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "id": 50290783, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -104.994769071379039, 39.656163666394725 ] } },
+{ "type": "Feature", "properties": { "name": "Target", "shop": "supermarket", "id": 284758465, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.005519021582472, 39.650078826706419 ] } }
 ]
 }

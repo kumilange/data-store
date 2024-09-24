@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "building": "warehouse", "name": "Target", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.780528175881699, 39.956390538259541 ] } },
-{ "type": "Feature", "properties": { "building": "yes", "name": "Walmart Supercenter", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.823815301446942, 39.969602704761471 ] } },
-{ "type": "Feature", "properties": { "building": "yes", "name": "King Soopers", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.81606977538064, 39.970389127958285 ] } },
-{ "type": "Feature", "properties": { "building": "yes", "name": "Safeway", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.801438544908933, 39.987905826930977 ] } },
-{ "type": "Feature", "properties": { "building": "yes", "name": "King Soopers", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.749886624995497, 39.98869163771878 ] } }
+{ "type": "Feature", "properties": { "building": "warehouse", "name": "Target", "shop": "supermarket", "id": 220904096 }, "geometry": { "type": "Point", "coordinates": [ -104.780528175881699, 39.956390538259541 ] } },
+{ "type": "Feature", "properties": { "building": "yes", "name": "Walmart Supercenter", "shop": "supermarket", "id": 220973144 }, "geometry": { "type": "Point", "coordinates": [ -104.823815301446942, 39.969602704761471 ] } },
+{ "type": "Feature", "properties": { "building": "yes", "name": "King Soopers", "shop": "supermarket", "id": 220973177 }, "geometry": { "type": "Point", "coordinates": [ -104.81606977538064, 39.970389127958285 ] } },
+{ "type": "Feature", "properties": { "building": "yes", "name": "Safeway", "shop": "supermarket", "id": 512454968 }, "geometry": { "type": "Point", "coordinates": [ -104.801438544908933, 39.987905826930977 ] } },
+{ "type": "Feature", "properties": { "building": "yes", "name": "King Soopers", "shop": "supermarket", "id": 672212654 }, "geometry": { "type": "Point", "coordinates": [ -104.749886624995497, 39.98869163771878 ] } }
 ]
 }

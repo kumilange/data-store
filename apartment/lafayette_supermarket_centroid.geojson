@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0964059, 39.9883785 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.101700697584704, 40.001860869520357 ] } },
-{ "type": "Feature", "properties": { "name": "Vitamin Cottage", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.091250090570483, 39.986373325122884 ] } },
-{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.105251032463499, 40.006035108835135 ] } }
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 1638476807, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0964059, 39.9883785 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 34300813, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.101700697584704, 40.001860869520357 ] } },
+{ "type": "Feature", "properties": { "name": "Vitamin Cottage", "shop": "supermarket", "id": 35439861, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.091250090570483, 39.986373325122884 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "id": 97343747, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.105251032463499, 40.006035108835135 ] } }
 ]
 }

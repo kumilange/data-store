@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Trader Joe's", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -105.089239, 39.6116591 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -105.072052, 39.593532 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -105.0238381, 39.625161 ] } },
-{ "type": "Feature", "properties": { "name": "Taspen’s Organics", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -105.0266211, 39.5840951 ] } }
+{ "type": "Feature", "properties": { "name": "Trader Joe's", "shop": "supermarket", "id": 5074283024 }, "geometry": { "type": "Point", "coordinates": [ -105.089239, 39.6116591 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 5900917817 }, "geometry": { "type": "Point", "coordinates": [ -105.072052, 39.593532 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 6822836908 }, "geometry": { "type": "Point", "coordinates": [ -105.0238381, 39.625161 ] } },
+{ "type": "Feature", "properties": { "name": "Taspen’s Organics", "shop": "supermarket", "id": 7185485007 }, "geometry": { "type": "Point", "coordinates": [ -105.0266211, 39.5840951 ] } }
 ]
 }

@@ -1,15 +1,15 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0507693, 39.9124305 ] } },
-{ "type": "Feature", "properties": { "name": "H Mart", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.051507, 39.8624579 ] } },
-{ "type": "Feature", "properties": { "name": "La Poblanita", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0091085, 39.8631376 ] } },
-{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.056755823305281, 39.867883814845612 ] } },
-{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.046534343477475, 39.916684090212811 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.027637140774445, 39.883107398440458 ] } },
-{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.022603076367915, 39.88350239757704 ] } },
-{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.044660984360306, 39.91337058492131 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.055334997058182, 39.917049284934144 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.004732548593978, 39.850357554782519 ] } }
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 3429516445, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0507693, 39.9124305 ] } },
+{ "type": "Feature", "properties": { "name": "H Mart", "shop": "supermarket", "id": 3726912667, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.051507, 39.8624579 ] } },
+{ "type": "Feature", "properties": { "name": "La Poblanita", "shop": "supermarket", "id": 9986669182, "building": null }, "geometry": { "type": "Point", "coordinates": [ -105.0091085, 39.8631376 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "id": 151960439, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.056755823305281, 39.867883814845612 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "id": 292810942, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.046534343477475, 39.916684090212811 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 295257938, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.027637140774445, 39.883107398440458 ] } },
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "id": 295262958, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.022603076367915, 39.88350239757704 ] } },
+{ "type": "Feature", "properties": { "name": "Whole Foods Market", "shop": "supermarket", "id": 317864729, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -105.044660984360306, 39.91337058492131 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 369320448, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.055334997058182, 39.917049284934144 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 1303025601, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -105.004732548593978, 39.850357554782519 ] } }
 ]
 }

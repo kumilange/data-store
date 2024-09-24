@@ -1,16 +1,16 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "building": "apartments", "name": "Bell Cherry Hills" }, "geometry": { "type": "Point", "coordinates": [ -104.985884801755077, 39.649836623526134 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.991565649746661, 39.649717058641251 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.98966255, 39.6504533 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.989829199999988, 39.6503756 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.981421919886685, 39.651634380147271 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.9802554, 39.65086695 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.98205275264813, 39.651999248562142 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": "Bell Cherry Hills" }, "geometry": { "type": "Point", "coordinates": [ -104.987009931145096, 39.650214594279518 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.996784327149086, 39.65578496341918 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": "ArtWalk at CityCenter" }, "geometry": { "type": "Point", "coordinates": [ -104.99859073948177, 39.655981543855233 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.996706108811296, 39.623733241879492 ] } }
+{ "type": "Feature", "properties": { "building": "apartments", "name": "Bell Cherry Hills", "id": 42235085 }, "geometry": { "type": "Point", "coordinates": [ -104.985884801755077, 39.649836623526134 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 49941312 }, "geometry": { "type": "Point", "coordinates": [ -104.991565649746661, 39.649717058641251 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 49941372 }, "geometry": { "type": "Point", "coordinates": [ -104.98966255, 39.6504533 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 49941373 }, "geometry": { "type": "Point", "coordinates": [ -104.989829199999988, 39.6503756 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 283885907 }, "geometry": { "type": "Point", "coordinates": [ -104.981421919886685, 39.651634380147271 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 283900821 }, "geometry": { "type": "Point", "coordinates": [ -104.9802554, 39.65086695 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 283905698 }, "geometry": { "type": "Point", "coordinates": [ -104.98205275264813, 39.651999248562142 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": "Bell Cherry Hills", "id": 675578447 }, "geometry": { "type": "Point", "coordinates": [ -104.987009931145096, 39.650214594279518 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 1671784 }, "geometry": { "type": "Point", "coordinates": [ -104.996784327149086, 39.65578496341918 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": "ArtWalk at CityCenter", "id": 10754796 }, "geometry": { "type": "Point", "coordinates": [ -104.99859073948177, 39.655981543855233 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "name": null, "id": 17336394 }, "geometry": { "type": "Point", "coordinates": [ -104.996706108811296, 39.623733241879492 ] } }
 ]
 }

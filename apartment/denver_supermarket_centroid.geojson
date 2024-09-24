@@ -1,20 +1,20 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9775238, 39.7489053 ] } },
-{ "type": "Feature", "properties": { "name": "Marczyk Fine Foods", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9780485, 39.7430196 ] } },
-{ "type": "Feature", "properties": { "name": "Downing Supermarket", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9727571, 39.7640796 ] } },
-{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.944492, 39.7404516 ] } },
-{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.979073, 39.739386 ] } },
-{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.975909, 39.772934 ] } },
-{ "type": "Feature", "properties": { "name": "Gem Supermarket", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9731605, 39.7593401 ] } },
-{ "type": "Feature", "properties": { "name": "Park Hill Supermarket", "shop": "supermarket", "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.94338, 39.7722022 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.901363250881872, 39.756539977154461 ] } },
-{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -104.897274138819569, 39.769659432976695 ] } },
-{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.930562879312504, 39.808711286148295 ] } },
-{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.928074116178919, 39.804524620138615 ] } },
-{ "type": "Feature", "properties": { "name": "Target", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.895514107163706, 39.783499531465651 ] } },
-{ "type": "Feature", "properties": { "name": "Hi Lo Market", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.9116625758341, 39.829057392394873 ] } },
-{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.890993204718455, 39.766253948885222 ] } }
+{ "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "id": 640508565, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9775238, 39.7489053 ] } },
+{ "type": "Feature", "properties": { "name": "Marczyk Fine Foods", "shop": "supermarket", "id": 2410166673, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9780485, 39.7430196 ] } },
+{ "type": "Feature", "properties": { "name": "Downing Supermarket", "shop": "supermarket", "id": 2828236919, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9727571, 39.7640796 ] } },
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 3066040507, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.944492, 39.7404516 ] } },
+{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "id": 3420051899, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.979073, 39.739386 ] } },
+{ "type": "Feature", "properties": { "name": "Natural Grocers", "shop": "supermarket", "id": 4961915936, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.975909, 39.772934 ] } },
+{ "type": "Feature", "properties": { "name": "Gem Supermarket", "shop": "supermarket", "id": 5600321439, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9731605, 39.7593401 ] } },
+{ "type": "Feature", "properties": { "name": "Park Hill Supermarket", "shop": "supermarket", "id": 10671216855, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.94338, 39.7722022 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 78431417, "building": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.901363250881872, 39.756539977154461 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "id": 130807103, "building": "retail" }, "geometry": { "type": "Point", "coordinates": [ -104.897274138819569, 39.769659432976695 ] } },
+{ "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 131426308, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.930562879312504, 39.808711286148295 ] } },
+{ "type": "Feature", "properties": { "name": "Walmart Supercenter", "shop": "supermarket", "id": 131426333, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.928074116178919, 39.804524620138615 ] } },
+{ "type": "Feature", "properties": { "name": "Target", "shop": "supermarket", "id": 133018274, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.895514107163706, 39.783499531465651 ] } },
+{ "type": "Feature", "properties": { "name": "Hi Lo Market", "shop": "supermarket", "id": 260052010, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.9116625758341, 39.829057392394873 ] } },
+{ "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 1072121734, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.890993204718455, 39.766253948885222 ] } }
 ]
 }

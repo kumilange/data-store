@@ -1,14 +1,14 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.784603471203908, 39.958283426079227 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.785371076539761, 39.958098012182091 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.78593354260903, 39.957928920282576 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.784472128877937, 39.957834079780817 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.785620633097508, 39.95749140017903 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.812498596689778, 39.967786510178151 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.813059549643455, 39.967705003930988 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.812897568804118, 39.967275543570835 ] } },
-{ "type": "Feature", "properties": { "building": "apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.812015686745298, 39.967341106678859 ] } }
+{ "type": "Feature", "properties": { "building": "apartments", "id": 959159884 }, "geometry": { "type": "Point", "coordinates": [ -104.784603471203908, 39.958283426079227 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 959159885 }, "geometry": { "type": "Point", "coordinates": [ -104.785371076539761, 39.958098012182091 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 959159886 }, "geometry": { "type": "Point", "coordinates": [ -104.78593354260903, 39.957928920282576 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 959159893 }, "geometry": { "type": "Point", "coordinates": [ -104.784472128877937, 39.957834079780817 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 959159894 }, "geometry": { "type": "Point", "coordinates": [ -104.785620633097508, 39.95749140017903 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 963754658 }, "geometry": { "type": "Point", "coordinates": [ -104.812498596689778, 39.967786510178151 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 963754659 }, "geometry": { "type": "Point", "coordinates": [ -104.813059549643455, 39.967705003930988 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 963754662 }, "geometry": { "type": "Point", "coordinates": [ -104.812897568804118, 39.967275543570835 ] } },
+{ "type": "Feature", "properties": { "building": "apartments", "id": 963759484 }, "geometry": { "type": "Point", "coordinates": [ -104.812015686745298, 39.967341106678859 ] } }
 ]
 }

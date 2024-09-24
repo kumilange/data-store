@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "building": "yes", "name": "Hi Lo Market", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.9116625758341, 39.829057392394873 ] } },
-{ "type": "Feature", "properties": { "building": "yes", "name": "Safeway", "shop": "supermarket" }, "geometry": { "type": "Point", "coordinates": [ -104.942570237047391, 39.883301785219558 ] } }
+{ "type": "Feature", "properties": { "building": "yes", "name": "Hi Lo Market", "shop": "supermarket", "id": 260052010 }, "geometry": { "type": "Point", "coordinates": [ -104.9116625758341, 39.829057392394873 ] } },
+{ "type": "Feature", "properties": { "building": "yes", "name": "Safeway", "shop": "supermarket", "id": 448963415 }, "geometry": { "type": "Point", "coordinates": [ -104.942570237047391, 39.883301785219558 ] } }
 ]
 }
