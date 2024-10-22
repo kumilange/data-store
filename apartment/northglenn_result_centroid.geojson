@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "building": "apartments", "id": 87192207 }, "geometry": { "type": "Point", "coordinates": [ -104.979908481177205, 39.906490861516609 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 256670138 }, "geometry": { "type": "Point", "coordinates": [ -104.977024776044331, 39.880783645008975 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 256670139 }, "geometry": { "type": "Point", "coordinates": [ -104.974166234376924, 39.881776187645102 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 256670140 }, "geometry": { "type": "Point", "coordinates": [ -104.976962050000012, 39.88180195 ] } },

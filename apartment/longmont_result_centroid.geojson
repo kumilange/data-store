@@ -33,7 +33,6 @@
 { "type": "Feature", "properties": { "building": "apartments", "id": 552388465, "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.06631615, 40.1885525 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 552388466, "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.06572055, 40.1885626 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 552388470, "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.0663589, 40.1881279 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 576925084, "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.139129289540335, 40.151090636537816 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 576925094, "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.139486836169169, 40.150663439558443 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 576925098, "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.13965747529241, 40.151047287807906 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 628935193, "name": null }, "geometry": { "type": "Point", "coordinates": [ -105.075219858690403, 40.181128885827547 ] } },

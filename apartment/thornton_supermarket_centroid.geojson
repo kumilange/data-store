@@ -4,6 +4,7 @@
 { "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 515271070, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9378994, 39.9446405 ] } },
 { "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 515271078, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.94357, 39.9147961 ] } },
 { "type": "Feature", "properties": { "name": "Safeway", "shop": "supermarket", "id": 566881965, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9759327, 39.8724434 ] } },
+{ "type": "Feature", "properties": { "name": "Mi Pueblo Market", "shop": "grocery", "id": 12199768101, "building": null }, "geometry": { "type": "Point", "coordinates": [ -104.9789391, 39.8630824 ] } },
 { "type": "Feature", "properties": { "name": "Target", "shop": "supermarket", "id": 45610960, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.974585496616825, 39.916863339727364 ] } },
 { "type": "Feature", "properties": { "name": "Sprouts Farmers Market", "shop": "supermarket", "id": 45610961, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.973406931605027, 39.916716982632224 ] } },
 { "type": "Feature", "properties": { "name": "King Soopers", "shop": "supermarket", "id": 113048109, "building": "yes" }, "geometry": { "type": "Point", "coordinates": [ -104.976064647653189, 39.883789205127201 ] } },

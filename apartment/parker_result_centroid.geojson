@@ -34,8 +34,6 @@
 { "type": "Feature", "properties": { "building": "apartments", "id": 608940627, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.773984994548329, 39.517826400395862 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 609199248, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.773298132829524, 39.51695086739614 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 609204366, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.772188585472307, 39.516608342725888 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 609208321, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.771332413742996, 39.516190053085062 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 609212661, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.770992206935517, 39.516850337782522 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 609217937, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.771092773714344, 39.517496158222414 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 609224913, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.771496055213802, 39.517957940401189 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 609226391, "name": "Waterford on Mainstreet" }, "geometry": { "type": "Point", "coordinates": [ -104.772353944467937, 39.517911721101868 ] } },
@@ -44,17 +42,10 @@
 { "type": "Feature", "properties": { "building": "apartments", "id": 612275827, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.77550171930379, 39.518780497471298 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612277438, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.776104960924457, 39.519354521603844 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612279740, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.775253372638048, 39.519218997941692 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 612287994, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.775277049791981, 39.519719478189401 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 612290195, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.775319104261229, 39.520232851610373 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 612615393, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.775465360102174, 39.520725074886059 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 612617320, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.775681404490129, 39.521177035828742 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 612626774, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.777234030692199, 39.520950885162485 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612630599, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.776334853264046, 39.520561947926709 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612631855, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.776263548114017, 39.520144222372039 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612632697, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.776054366836604, 39.519766681420442 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612637464, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.776872815650563, 39.519775097244299 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 612639059, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.776969025929958, 39.520469751651021 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 612641333, "name": "Trailside Apartments" }, "geometry": { "type": "Point", "coordinates": [ -104.777644089253911, 39.52066052089824 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612987760, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.776134303038219, 39.521844465369874 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612990312, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.776484823789417, 39.522361421901252 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 612995274, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.777246071040054, 39.522258844410032 ] } },
@@ -72,7 +63,6 @@
 { "type": "Feature", "properties": { "building": "residential", "id": 666724937, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.760255130757258, 39.519752651958349 ] } },
 { "type": "Feature", "properties": { "building": "residential", "id": 666725184, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.759990571221692, 39.519573564284954 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 667213184, "name": "Parker Flats" }, "geometry": { "type": "Point", "coordinates": [ -104.76133919722443, 39.516638251390617 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 723573997, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.773579424986252, 39.514728520982004 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 843134529, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.760891422006708, 39.505308094709314 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 843134530, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.761276368692251, 39.505165806438917 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 843134531, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.761779224491818, 39.505999965434569 ] } },
@@ -119,7 +109,6 @@
 { "type": "Feature", "properties": { "building": "apartments", "id": 1120981160, "name": "Building #2" }, "geometry": { "type": "Point", "coordinates": [ -104.765160551454741, 39.484672335602852 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 1120981161, "name": "Building #1" }, "geometry": { "type": "Point", "coordinates": [ -104.764305802469579, 39.484738347736268 ] } },
 { "type": "Feature", "properties": { "building": "apartments", "id": 1220005845, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.775118574854702, 39.542956309273663 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 1220005846, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.774332651920687, 39.54289271449921 ] } },
-{ "type": "Feature", "properties": { "building": "apartments", "id": 9973201, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.773871667111578, 39.515447265190176 ] } }
+{ "type": "Feature", "properties": { "building": "apartments", "id": 1220005846, "name": null }, "geometry": { "type": "Point", "coordinates": [ -104.774332651920687, 39.54289271449921 ] } }
 ]
 }
